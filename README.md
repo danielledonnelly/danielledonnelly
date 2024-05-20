@@ -1,7 +1,7 @@
 🛸 HELLO WORLD 👽
 
-I'm Danielle! My background is in marketing, and I'm a Get Coding student looking to learn some new skills.
+I'm Danielle! I'm a marketing specialist and Get Coding student. I love planning, writing, editing, designing, coding, and so much more. 
 
-My dream is to one day be the type of marketer who can write compelling copy for a website, design a stellar user experience, and then bring it all to life via code.
+I'm a data nerd with a penchant for spreadsheets, tables, and documentation. Fast-paced environments that value collaboration and innovation are where I thrive the most. 
 
-Much like myself, my GitHub page is a work in progress! I'm not afraid to make mistakes or share some silly projects. I have a lot of learning and growth ahead of me!
+Stay tuned for updates! While I don't intend to become a full-time developer, I do plan on offering part-time freelance copywriting, design, and development services in the near future.
